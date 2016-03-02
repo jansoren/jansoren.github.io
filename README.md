@@ -18,3 +18,5 @@ Getting you startet developing android games.
 
 ### [Java Json Client](https://github.com/jansoren/java-json-client)
 This is a library that provides you with a simple way to do http/https requests to your REST API
+
+### [Technology Radar](https://www.thoughtworks.com/radar/languages-and-frameworks)
