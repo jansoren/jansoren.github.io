@@ -7,8 +7,11 @@ A lot of my experience has been as a developer, which later on has evolved into 
 ### [React Webpack Tutorial](http://jansoren.github.io/react-webpack-tutorial/) - ([GitHub](https://github.com/jansoren/react-webpack-tutorial))
 This is a tutorial on how to get started developing a client side application using ReactJS, Webpack and Npm.
 
-### [Akka Persistence Java Example](https://github.com/jansoren/akka-persistence-java-example)
+### [Akka Persistence Java Example](https://jansoren.github.io/akka-persistence-java-example/) - ([GitHub](https://github.com/jansoren/akka-persistence-java-example))
 This is an Event sourced microservice example implemented using Java, Dropwizard and Akka Persistence.
+
+### [REST API Codegenerator Maven Plugin](https://jansoren.github.io/restapi-codegen-maven-plugin/) - ([GitHub](https://github.com/jansoren/restapi-codegen-maven-plugin))
+This is a maven plugin for automatically generating client-side code to reach your own REST API.
 
 ### [Maven Archetype Eventsourcing](https://github.com/jansoren/maven-archetype-eventsourcing)
 This archetype creates a working java-project with Event Sourcing, Angular and Spring.
